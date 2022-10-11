@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface CarRepo {
+public interface CarRepo {
+    public void newSound(Car car);
 }

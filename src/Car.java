@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Car {
+public  abstract class Car {
+
+    public abstract void drive();
+    public abstract String getNewSound();
+
+
 }
+
