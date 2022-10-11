@@ -37,7 +37,7 @@ private String drive;
 
     @Override
     public String getNewSound() {
-this.NewSound = NewSound;
+
         return NewSound;
     }
 

@@ -34,7 +34,7 @@ public class Mersedes extends Car {
 
     @Override
     public String getNewSound() {
-        this.NewSound = NewSound;
+
         return NewSound;
 
     }
